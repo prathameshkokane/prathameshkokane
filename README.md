@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Kokane</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[![image](https://github.com/prathameshkokane/prathameshkokane/assets/100931667/e12d87a7-62e6-4ca0-a616-b76d398564ff)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwi43Lr7ue__AhXExaACHbdXCCsQMygDegUIARCdAg..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20conding%20gif&ved=2ahUKEwi43Lr7ue__AhXExaACHbdXCCsQMygDegUIARCdAg)
-">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/F9SLThuTzmeWxLty6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshkokane&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshkokane" /> </p>
 
