@@ -7,13 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [my-portfolio/](https://prathameshkokane.vercel.app/)
-
-- 💬 Ask me about **JavaScript, React, MERN**
-
-- 📫 How to reach me **prathameshkokane8312@gmail.com**
 # 💫 About Me:
-🔭 I’m currently working as intern at Code Casa.<br>🤝 I’m open for job opportunities.<br>🌱 I’m currently learning NextJs<br>💬 Ask me about MERN Stack<br>⚡ Eat Code Sleep Repeat :)
+🔭 I’m currently working as intern at Code Casa.<br>🤝 I’m open for job opportunities.<br>👨‍💻 See my projects here [PrathameshKokane.vercel.app](https://prathameshkokane.vercel.app/)<br>🌱 I’m currently learning NextJs<br>💬 Ask me about MERN Stack<br>⚡ Eat Code Sleep Repeat :)
 
 
 ## 🌐 Socials:
