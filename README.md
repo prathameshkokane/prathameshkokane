@@ -16,6 +16,6 @@
 # 📊 GitHub Stats:
 
 
-<p><img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshkokane&show_icons=true&locale=en&layout=compact" alt="prathameshkokane" /></p>
-<p><img align="center" justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshkokane&" alt="prathameshkokane" /></p>
+<p><img align="left" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshkokane&show_icons=true&locale=en&layout=compact" alt="prathameshkokane" /></p>
+<p><img align="right" justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshkokane&" alt="prathameshkokane" /></p>
 
