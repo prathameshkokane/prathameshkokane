@@ -3,13 +3,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshkokane&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshkokane" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 # 💫 About Me:
 🔭 I’m currently working as intern at Code Casa.<br>🤝 I’m open for job opportunities.<br>👨‍💻 See my projects here [PrathameshKokane.vercel.app](https://prathameshkokane.vercel.app/)<br>🌱 I’m currently learning NextJs<br>💬 Ask me about MERN Stack<br>⚡ Eat Code Sleep Repeat :)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshkokane&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshkokane" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prathamesh_8312/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-kokane/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Prathamesh_8312)  
