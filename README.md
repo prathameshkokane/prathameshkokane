@@ -16,6 +16,6 @@
 # 📊 GitHub Stats:
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshkokane&show_icons=true&locale=en&layout=compact" alt="prathameshkokane" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshkokane&" alt="prathameshkokane" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshkokane&show_icons=true&locale=en&layout=compact" alt="prathameshkokane" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshkokane&" alt="prathameshkokane" />
 
