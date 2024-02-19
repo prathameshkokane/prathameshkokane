@@ -1,4 +1,3 @@
-![MasterHead]
 <img alt="banner" src="https://media.licdn.com/dms/image/D4D16AQGM73aJRkovYQ/profile-displaybackgroundimage-shrink_350_1400/0/1666339050883?e=1714003200&v=beta&t=G6nk8-zIoftPI7PvEIYBf-yn64LPnXJV8vJM1o4G_QM">
 <h1 align="center">Hi 👋, I'm Prathamesh Kokane</h1>
 <h3 align="center">A passionate full stack developer based in India</h3>
