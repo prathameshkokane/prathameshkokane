@@ -1,6 +1,6 @@
 <img alt="banner" src="https://media.licdn.com/dms/image/D4D16AQHx39251os1mQ/profile-displaybackgroundimage-shrink_350_1400/0/1709016979567?e=1715212800&v=beta&t=9SZOcVTKJncLp_GYIZC3qMRXVecuMm8Algnji_Sv0-g">
 <h1 align="center">Hi 👋, I'm Prathamesh Kokane</h1>
-<h3 align="center">A passionate full stack developer based in India</h3>
+<h4 align="center">A passionate full stack developer based in India</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -8,7 +8,7 @@
 🔭 I’m currently working as full stack developer.<br>🤝 I’m open for job opportunities.<br>👨‍💻 See my projects here [PrathameshKokane.vercel.app](https://prathameshkokane.vercel.app/)<br>🌱 I’m currently learning NextJs & Typescript<br>💬 Ask me about MERN Stack<br>⚡ Eat Code Sleep Repeat :)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshkokane&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshkokane" /> </p>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/prathamesh_8312/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-kokane/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Prathamesh_8312)  
 
 # 💻 Tech Stack:
