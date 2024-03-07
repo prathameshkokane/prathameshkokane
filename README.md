@@ -1,4 +1,4 @@
-<img alt="banner" src="https://media.licdn.com/dms/image/D4D16AQGM73aJRkovYQ/profile-displaybackgroundimage-shrink_350_1400/0/1666339050883?e=1714003200&v=beta&t=G6nk8-zIoftPI7PvEIYBf-yn64LPnXJV8vJM1o4G_QM">
+<img alt="banner" src="https://media.licdn.com/dms/image/D4D16AQHx39251os1mQ/profile-displaybackgroundimage-shrink_350_1400/0/1709016979567?e=1715212800&v=beta&t=9SZOcVTKJncLp_GYIZC3qMRXVecuMm8Algnji_Sv0-g">
 <h1 align="center">Hi 👋, I'm Prathamesh Kokane</h1>
 <h3 align="center">A passionate full stack developer based in India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
