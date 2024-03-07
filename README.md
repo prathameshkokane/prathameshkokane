@@ -16,7 +16,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshkokane&show_icons=true&locale=en&layout=compact" alt="languages graph" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshkokane&" alt="streak graph" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshkokane&show_icons=true&locale=en&layout=compact&theme=default" alt="languages graph" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshkokane&theme=default" alt="streak graph" height="150" />
 </div>
 
